@@ -1,0 +1,5 @@
+.vscode/
+.nvim.lua
+bin/
+cmake/
+clangd/

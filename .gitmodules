@@ -1,0 +1,3 @@
+[submodule "extern/dluaulib-stub"]
+	path = extern/dluaulib-stub
+	url = https://github.com/jipgg/dluaulib-stub
